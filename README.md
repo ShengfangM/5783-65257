@@ -1,2 +1,3 @@
 # 5783-65257-assignments-Ma
-# this folder is for assignments of ML
+# this repository is for the assignments of ML
+#
